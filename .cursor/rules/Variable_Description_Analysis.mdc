@@ -1,0 +1,11 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Variable Description and Analysis
+
+Ensure that each variable is described in terms of its type, semantics, ontology, range of values, and format. Additionally, describe the relationships between variables.
+
+Reference: [Lineamientos de evaluación AA2.md](mdc:Lineamientos de evaluación AA2.md)
+

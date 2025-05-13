@@ -1,0 +1,10 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# Reproducibility of Analysis
+
+Version the code descriptively, ensuring the repository history is clean and commits are used appropriately. Provide a repository with code and commands to reproduce results.
+
+Reference: [Lineamientos de evaluación AA2.md](mdc:Lineamientos de evaluación AA2.md)

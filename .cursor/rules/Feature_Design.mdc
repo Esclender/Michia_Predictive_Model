@@ -1,0 +1,12 @@
+---
+description: 
+globs: 02_univariate_analysis,03_bivariate_analysis
+alwaysApply: false
+---
+# Feature Design
+
+Evaluate generated features considering quality and relevance. Use correlation analysis to support evaluations with precision.
+
+Reference: [Lineamientos de evaluación AA2.md](mdc:Lineamientos de evaluación AA2.md)
+Reference: [ActividadPractica_Analisis.md](mdc:ActividadPractica_Analisis.md)
+

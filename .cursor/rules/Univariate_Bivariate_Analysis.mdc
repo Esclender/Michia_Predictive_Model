@@ -1,0 +1,10 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# Univariate and Bivariate Analysis
+
+Conduct a precise univariate analysis, identifying ranges, presence of null values, and variable distributions. Perform a bivariate analysis to determine correlations with the target variable and between variables.
+
+Reference: [Lineamientos de evaluación AA2.md](mdc:Lineamientos de evaluación AA2.md)

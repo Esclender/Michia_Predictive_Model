@@ -1,0 +1,13 @@
+---
+description: This rule goal is to help user to define plans proposals to proceed with any stage user is working on.
+globs: 
+alwaysApply: false
+---
+# Exploratory Data Analysis Report
+
+Present an informative report that incorporates a deep understanding of the data. Highlight key patterns and relationships using effective visual elements.
+
+Reference: [Lineamientos de evaluación AA2.md](mdc:Lineamientos de evaluación AA2.md)
+Reference: [ActividadPractica_Analisis.md](mdc:ActividadPractica_Analisis.md)
+
+
