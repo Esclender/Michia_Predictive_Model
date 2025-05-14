@@ -1,0 +1,9 @@
+---
+description: When user ask for plans proposals
+globs: 
+alwaysApply: false
+---
+# Create .md file
+
+
+Create a .md with a detail explanation of the plan to elaborate, this must break goal into different stages and be concise.
