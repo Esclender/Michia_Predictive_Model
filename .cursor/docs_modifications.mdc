@@ -1,0 +1,6 @@
+---
+description: When user make changes related to data dicctionary changes and notebooks changes.
+globs: 
+alwaysApply: false
+---
+Modifcy [Grupo2_Evidencia2.md](mdc:docs/Grupo2_Evidencia2.md) file according to notebook changes and data dicctionary changes related.

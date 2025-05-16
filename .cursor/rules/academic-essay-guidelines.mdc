@@ -1,0 +1,42 @@
+---
+description: When user request for any essay change or generation
+globs: 
+alwaysApply: false
+---
+# Academic Essay Guidelines in APA 7 Format
+
+## Structure
+1. **Title Page**: Include the title of the essay, author's name, institutional affiliation, course name, instructor's name, and date.
+2. **Abstract**: A brief summary of the essay, not exceeding 250 words.
+3. **Introduction**: Introduce the topic and outline the main points to be discussed.
+4. **Development**: 
+   - **Descripción de librerías a utilizar**: Discuss the libraries used in the data analysis.
+   - **Elaboración del Diccionario de Datos**: Explain the creation of the data dictionary.
+   - **Análisis Univariado**: Present the univariate analysis.
+   - **Análisis Bivariado**: Discuss the bivariate analysis.
+   - **Formulación de hipótesis sobre la data**: Formulate hypotheses based on the data.
+   - **Aplicación de Ingeniería de Características**: Describe the application of feature engineering.
+5. **Conclusion**: Summarize the findings and their implications.
+6. **References**: List all sources cited in the essay in APA 7 format.
+
+## Content
+- Focus exclusively on the topics outlined in the "AA1 - Parte 2: Análisis Exploratorio de Datos" section.
+- Ensure each section is comprehensive and addresses the key points mentioned.
+
+## APA 7 Formatting
+- **Title Page**: Follow APA 7 guidelines for the title page.
+- **Citations**: Use in-text citations in APA 7 format.
+- **References**: Format the reference list according to APA 7 standards.
+- **Headings**: Use APA 7 heading styles to organize the essay.
+- **Font and Spacing**: Use a readable font (e.g., Times New Roman 12 pt), double-spaced, with 1-inch margins.
+
+## Language and Style
+- Use an academic tone and third-person voice.
+- Maintain a formal register throughout the essay.
+- Use appropriate transitions to ensure a logical flow of ideas.
+
+## Length and Depth
+- Ensure each section is detailed and provides a thorough analysis of the topic.
+
+[Lineamientos_de_evaluación_AA2_AI.md](mdc:docs/Lineamientos_de_evaluación_AA2_AI.md)
+
