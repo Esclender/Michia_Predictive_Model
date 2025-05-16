@@ -1,0 +1,73 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+Rule Name: hypothesis-generation-guidelines
+Description: Guides the formulation of data-driven hypotheses, adapting to user-specified analytical approaches or focus.
+# Hypothesis Generation Guidelines
+
+## Purpose
+This rule guides the formulation of data-driven hypotheses for Exploratory Data Analysis (EDA). It emphasizes adapting hypotheses based on any new analytical focus or specific approach indicated by the user.
+
+## Core Principles for Hypothesis Formulation
+
+1.  **Data-Driven:**
+    *   Hypotheses MUST be directly derived from observations, patterns, or anomalies identified in prior data analyses (e.g., univariate, bivariate analysis, feature engineering insights).
+    *   Reference specific findings from these analyses as justification.
+
+2.  **User-Specified Focus/Approach:**
+    *   Actively incorporate any "new approach," specific variables, or analytical lens provided by the user.
+    *   Tailor hypotheses to explore questions or relationships relevant to this specified context.
+
+3.  **Clarity and Specificity:**
+    *   State each hypothesis clearly, precisely, and unambiguously.
+    *   Specify the variables involved and the nature of the expected relationship (e.g., positive/negative correlation, difference in means, association).
+    *   Example: "It is hypothesized that `[Variable A]` shows a significant [positive/negative] correlation with `[Variable B]` when analyzed under the context of `[User's Specified Approach/Focus]`."
+
+4.  **Testability:**
+    *   Formulate hypotheses in a manner that allows them to be empirically tested or investigated through further data analysis or statistical methods.
+    *   Avoid vague statements that cannot be verified.
+
+5.  **Relevance:**
+    *   Ensure each hypothesis is relevant to the overall research questions or the objectives of the EDA.
+
+## Process for Generating Hypotheses
+
+1.  **Understand User's Goal/New Focus:**
+    *   Clarify the specific question, approach, or variables the user wants to investigate.
+
+2.  **Review Existing Analyses:**
+    *   Thoroughly examine findings from relevant sections of your EDA report (e.g., `docs/Grupo2_Evidencia2.md`):
+        *   Data Dictionary (for variable context).
+        *   Univariate Analysis (distributions, outliers).
+        *   Bivariate Analysis (correlations, relationships).
+        *   Feature Engineering Report (insights from new features, e.g., `docs/Reporte_Ingenieria_Caracteristicas.md`).
+
+3.  **Identify Key Insights & Questions:**
+    *   Based on the review and the user's focus, pinpoint interesting patterns, unexpected results, or unanswered questions.
+
+4.  **Draft Hypotheses:**
+    *   Formulate initial hypotheses addressing these insights and questions.
+    *   Explicitly link them to the user's specified focus.
+
+5.  **Refine and Structure:**
+    *   Ensure each hypothesis adheres to the "Core Principles" (data-driven, user-focused, clear, specific, testable, relevant).
+    *   Structure them logically. For each hypothesis, briefly state its justification based on prior findings.
+
+## Example Integration in an EDA Report
+
+When documenting in a file like `docs/Grupo2_Evidencia2.md` under the "Formulación de hipótesis sobre la data" section:
+
+> ### Formulación de hipótesis sobre la data
+>
+> Considerando el análisis de [specific prior analysis, e.g., 'correlación entre tiempo_espera y satisfaccion_estudiante'] y el enfoque actual en [User's Specified Approach/Focus, e.g., 'el impacto de la eficiencia del servicio en la retención'], se plantean las siguientes hipótesis:
+>
+> 1.  **Hipótesis 1:** Un `tiempo_espera` elevado se correlaciona negativamente con la `satisfaccion_estudiante`, y este efecto es más pronunciado para consultas de `urgencia` 'Alta'.
+>     *   *Justificación:* Observado en el análisis bivariado y la necesidad de explorar el impacto de la urgencia como moderador.
+> 2.  **Hipótesis 2:** La nueva característica `eficiencia_servicio` mostrará una correlación positiva significativa con `indice_promotor_neto` al considerar [User's Specified Approach/Focus].
+>     *   *Justificación:* Basado en la definición de `eficiencia_servicio` y la expectativa de que una resolución eficiente conduce a mayor lealtad.
+
+## Relation to Other Guidelines
+This rule provides detailed steps for the "Formulación de hipótesis sobre la data" point within the [academic-essay-guidelines](mdc:.cursor/rules/academic-essay-guidelines.mdc).
+
